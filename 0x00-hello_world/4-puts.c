@@ -1,4 +1,17 @@
+/*
+ *
+ *  * File: 4-puts.c
+ *
+ *   * Auth: Samuel Dike <hello@samueldike.com>
+ *
+ *    */
+
+
+
 #include <stdio.h>
+
+
+
 /**
  *
  *  * main - Prints "Programming is like building a multilingual
