@@ -1,36 +1,20 @@
-/**
- *
- *  * File: 4-puts.c
- *
- *   * Auth: Samuel Dike <hello@samueldike.com>
- *
- *    */
-
-
-
-#include <stdio.h>
-
-
+nclude <stdio.h>
 
 /**
  *
- *  * main - Prints "Programming is like building a multilingual
+ *  * main - Entry point
  *
- *   *                puzzle, followed by a new line.
+ *   *
  *
- *    *
+ *    * Return: always 0
  *
- *     * Return: Always 0.
- *
- *      */
+ *     */
 
 int main(void)
 
 {
 
 		puts("\"Programming is like building a multilingual puzzle");
-
-
 
 			return (0);
 
