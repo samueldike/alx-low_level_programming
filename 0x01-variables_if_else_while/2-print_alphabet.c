@@ -7,13 +7,16 @@
 int main(void)
 {
 	char a;
+	char s;
+
+	s = " ";
 
 	for (a = 'a'; a <= 'z' ; a++)
 	{	
 		putchar(a);
 		if(a == 'z')
 		{
-			putchar(" ");
+			putchar(s);
 		}
 	}
 	return (0);
