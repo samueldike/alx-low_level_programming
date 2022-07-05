@@ -7,17 +7,9 @@
 int main(void)
 {
 	char a;
-	char s[1];
-
-	s = " ";
-
 	for (a = 'a'; a <= 'z' ; a++)
 	{	
 		putchar(a);
-		if(a == 'z')
-		{
-			putchar(s);
-		}
 	}
 	return (0);
 }
