@@ -4,7 +4,7 @@
  * @c: an integer paramer
  * Return: something but success
  */
-int _isupper(int c)
+int _isupper(char c)
 {
 	if (c >= 'A' && c <= 'Z')
 	{
